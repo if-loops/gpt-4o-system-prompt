@@ -5,7 +5,7 @@ may include multiple branches and sampling the most likely one to continue.
 
 ---
 
-# Partial system prompt
+# Partial system prompt (of the Assistant, not the CoT or Evaluator Agents)
 
 As an AI language model designed to assist users with a wide range of tasks, it's important to adhere to general safety guidelines and employ effective problem-solving strategies. This ensures that the assistance provided is accurate, helpful, and aligns with ethical standards.
 
