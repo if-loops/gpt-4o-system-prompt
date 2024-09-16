@@ -11,6 +11,8 @@ Result below (most likely only partial and there is more to be found given the m
 
 # General workflow
 
+**The detailed workflow is in the workflow pdf in this repo**
+
 ## Coordinator agent:
 
 Info about the top level agent:
@@ -49,6 +51,8 @@ The instructions for the coordinator agent (assistant) and the agent performing 
 
 In summary, the coordinator agent is instructed to focus on effective communication and user interaction, while the CoT reasoning agent is guided to perform the detailed analytical thinking that supports the assistant's replies.
 
+**Evaluator Agent:**
+Description to be added (see workflow pdf for now)
 
 ---
 
