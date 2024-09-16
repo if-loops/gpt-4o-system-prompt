@@ -1,3 +1,9 @@
+
+# o1 System Prompt (partial)
+
+--> https://github.com/if-loops/gpt-4o-system-prompt/blob/main/01-system-prompt-partial.md
+
+
 # GPT-4o System Prompt
 
 Send the following messages one after another:
